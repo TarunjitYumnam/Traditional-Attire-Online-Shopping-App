@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590328578933",
+    "firebase_url": "https://shoppinglogin-5569a.firebaseio.com",
+    "project_id": "shoppinglogin-5569a",
+    "storage_bucket": "shoppinglogin-5569a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590328578933:android:e8290aa3220ab2ae78c93c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590328578933-f62dof0pa2foqoc1j331eakk27h1lr2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA399dBLu2V8LnQLPDkPLdlGoTJlTDrVME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590328578933-f62dof0pa2foqoc1j331eakk27h1lr2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
